@@ -16,5 +16,11 @@ As seen on the network, we can see the number labelled nodes and edges that are 
 
 ![](https://github.com/kellyngsf/euemail_networks/blob/main/images/euemail_networks2.png)
 
+# Evaluation 
+
+The advantages to representing the network data with a dendrogram over a network figure is that we can clearly observe which node is related to which, unlike the contracted network plot where too many lines overlapped with each other, which made it illegible. Furthermore, the dendrogram makes it easy to see what clusters are present within departments and which nodes (departments) are within that cluster. 
+
+On the other hand, the disadvantage of a dendrogram is that we aren't able to know which node is connected to which node, or how many edges each node has as the dendrogram plot is in a hierarchical structure. Therefore, the dendrogram needs more explanation regarding which departments are connected to which and the number of edges between nodes (i.e., number of emails sent between departments). 
+
 ### References:
 Yin, H., Benson, A. R., Leskovec, J., and Gleich, D. F. (2017). Local higher-order graph clustering. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD ’17, page 555–564, New York, NY, USA. Association for Computing Machinery.
